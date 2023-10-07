@@ -16,7 +16,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: 1.jpg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: yluo39github.github.io # the base hostname & protocol for your site
 baseurl: /yluo-web # the subpath of your site, e.g. /blog/
@@ -28,7 +28,7 @@ impressum_path:  # set to path to include impressum link in the footer, use the 
 # -----------------------------------------------------------------------------
 
 # repo color theme
-repo_theme_light: buefy        # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_light: shadow_red        # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: cobalt           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
   enabled: true
