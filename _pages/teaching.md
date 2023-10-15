@@ -1,12 +1,20 @@
 ---
 layout: page
-permalink: /teaching/
-title: teaching
-description: Materials for courses you taught. Replace this text with your description.
+permalink: /Teaching/
+title: Teaching
+description: 
 nav: true
-nav_order: 5
+nav_order: 3
 ---
+### University of Massachusetts Dartmouth
+* Fall 2023 - **CIS 552**: Database Design (Instructor)
 
-For now, this page is assumed to be a static description of your courses. You can convert it to a collection similar to `_projects/` so that you can have a dedicated page for each course.
+### Northeastern University
+* Spring 2022 - **EECE 2323**: Fundamentals of Digital Design & Computer Organization (Lab TA)
 
-Organize your courses by years, topics, or universities, however you like!
+### University of Illinois Chicago 
+* Fall 2019 - **ECE 265**: Introduction to Logic Design (Lab TA)
+* Spring 2019 - **ECE 465**: Digital Systems Design (Lecture TA)
+
+### Illinois Institute of Technology
+* Fall 2017 - **ECE 505**: Applied Optimization for Engineers (Lecture TA)
