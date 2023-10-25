@@ -37,7 +37,7 @@ Thirty-seventh Conference on Neural Information Processing Systems (**NeurIPS**)
 IEEE/ACM International Symposium on Microarchitecture (**MICRO**), 2023.
 
 [AutoReP: Automatic ReLU Replacement for Fast Private Network Inference](https://openaccess.thecvf.com/content/ICCV2023/papers/Peng_AutoReP_Automatic_ReLU_Replacement_for_Fast_Private_Network_Inference_ICCV_2023_paper.pdf)\
-Hongwu Peng, Shaoyi Huang, Tong Zhou, **<ins>Yukui Luo</ins>**, Chenghong Wang, Zigeng Wang, Jiahui Zhao, Xi Xie, Ang Li, Tony Geng, Kaleel Mahmood, Wujie Wen, Xiaolin Xu, Caiwen Ding
+Hongwu Peng, Shaoyi Huang, Tong Zhou, **<ins>Yukui Luo</ins>**, Chenghong Wang, Zigeng Wang, Jiahui Zhao, Xi Xie, Ang Li, Tony Geng, Kaleel Mahmood, Wujie Wen, Xiaolin Xu, Caiwen Ding\
 International Conference on Computer Vision (**ICCV**), 2023.
 
 [MirrorNet: A TEE-Friendly Framework for Secure On-device DNN Inference](#)\
@@ -74,11 +74,11 @@ ACM/SIGDA International Symposium on Field-Programmable Gate Arrays (**FPGA**), 
 **<span style="color:purple;">2021</span>**
 
 [Deep Neural Network Security from A Hardware Perspective](https://ieeexplore.ieee.org/abstract/document/9642246)\
-Tong Zhou, Yuheng Zhang, Shijin Duan, **<ins>Yukui Luo</ins>**, Xiaolin Xu,\
+Tong Zhou, Yuheng Zhang, Shijin Duan, **<ins>Yukui Luo</ins>**, Xiaolin Xu\
 IEEE/ACM Symposium on Nanoscale Architectures (**NANOARCH**), 2021.
 
 [Deep-Dup: An Adversarial Weight Duplication Attack Framework to Crush Deep Neural Network in Multi-Tenant FPGA](https://www.usenix.org/system/files/sec21-rakin.pdf)\
-**<ins>Yukui Luo</ins>**, Adnan Siraj Rakin, Xiaolin Xu, Deliang Fan
+**<ins>Yukui Luo</ins>**, Adnan Siraj Rakin, Xiaolin Xu, Deliang Fan\
 USENIX Security Symposium (**USENIX Security**), 2021. (Acceptance rate 18.8%) [YouTube Link](https://www.youtube.com/watch?v=PQozPPrkuto)
 
 [A Survey of Recent Attacks and Mitigation on FPGA Systems](https://ieeexplore.ieee.org/abstract/document/9516757)\
