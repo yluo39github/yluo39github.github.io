@@ -79,7 +79,7 @@ IEEE/ACM Symposium on Nanoscale Architectures (**NANOARCH**), 2021.
 
 [Deep-Dup: An Adversarial Weight Duplication Attack Framework to Crush Deep Neural Network in Multi-Tenant FPGA](https://www.usenix.org/system/files/sec21-rakin.pdf)\
 **<ins>Yukui Luo</ins>**, Adnan Siraj Rakin, Xiaolin Xu, Deliang Fan
-USENIX Security Symposium (**USENIX Security**), 2021. (Acceptance rate 18.8%=248/1319)
+USENIX Security Symposium (**USENIX Security**), 2021. (Acceptance rate 18.8%) [YouTube Link](https://www.youtube.com/watch?v=PQozPPrkuto)
 
 [A Survey of Recent Attacks and Mitigation on FPGA Systems](https://ieeexplore.ieee.org/abstract/document/9516757)\
 Shijin Duan, Wenhao Wang, **<ins>Yukui Luo</ins>**, Xiaolin Xu\
