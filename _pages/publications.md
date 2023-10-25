@@ -18,11 +18,11 @@ nav_order: 1
 
 **<span style="color:purple;">2024</span>**
 
-[DeepShuffle: A Lightweight Defense Framework against Adversarial Fault Injection Attacks on Deep Neural Networks in Multi-Tenant Cloud-FPGA](#)\
+[DeepShuffle: A Lightweight Defense Framework against Adversarial Fault Injection Attacks on Deep Neural Networks in Multi-Tenant Cloud-FPGA](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a034/1RjEa9WUlPi)\
 **<ins>Yukui Luo</ins>**, Adnan Siraj Rakin, Deliang Fan, Xiaolin Xu\
 IEEE Symposium on Security and Privacy (S&P) (**Oakland**), 2024.
 
-[Side-Channel-Assisted Reverse-Engineering of Encrypted DNN Hardware Accelerator IP and Attack Surface Exploration](#)\
+[Side-Channel-Assisted Reverse-Engineering of Encrypted DNN Hardware Accelerator IP and Attack Surface Exploration](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a001/1RjE9FWOWsw)\
 Gongye Cheng, **<ins>Yukui Luo</ins>**, Xiaolin Xu, Yunsi Fei\
 IEEE Symposium on Security and Privacy (S&P) (**Oakland**), 2024.
 
@@ -32,7 +32,7 @@ IEEE Symposium on Security and Privacy (S&P) (**Oakland**), 2024.
 Hongwu Peng, Ran Ran, **<ins>Yukui Luo</ins>**, Jiahui Zhao, Shaoyi Huang, Kiran Thorat, Tong Geng, Chenghong Wang, Xiaolin Xu, Wujie Wen, Caiwen Ding\
 Thirty-seventh Conference on Neural Information Processing Systems (**NeurIPS**), 2023.
 
-[AQ2PNN: Enabling Two-party Privacy-Preserving Deep Neural Network Inference with Adaptive Quantization](#)\
+[AQ2PNN: Enabling Two-party Privacy-Preserving Deep Neural Network Inference with Adaptive Quantization](https://microarch.org/micro56/program/index.php)\
 **<ins>Yukui Luo</ins>**, Nuo Xu, Hongwu Peng, Chenghong Wang, Shijin Duan, Kaleel Mahmood, Wujie Wen, Caiwen Ding, Xiaolin Xu\
 IEEE/ACM International Symposium on Microarchitecture (**MICRO**), 2023.
 
