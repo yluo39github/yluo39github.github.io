@@ -32,7 +32,7 @@ IEEE Symposium on Security and Privacy (S&P) (**Oakland**), 2024.
 Hongwu Peng, Ran Ran, **<ins>Yukui Luo</ins>**, Jiahui Zhao, Shaoyi Huang, Kiran Thorat, Tong Geng, Chenghong Wang, Xiaolin Xu, Wujie Wen, Caiwen Ding\
 Thirty-seventh Conference on Neural Information Processing Systems (**NeurIPS**), 2023.
 
-[AQ2PNN: Enabling Two-party Privacy-Preserving Deep Neural Network Inference with Adaptive Quantization](https://microarch.org/micro56/program/index.php)\
+[AQ2PNN: Enabling Two-party Privacy-Preserving Deep Neural Network Inference with Adaptive Quantization](https://dl.acm.org/doi/10.1145/3613424.3614297)\
 **<ins>Yukui Luo</ins>**, Nuo Xu, Hongwu Peng, Chenghong Wang, Shijin Duan, Kaleel Mahmood, Wujie Wen, Caiwen Ding, Xiaolin Xu\
 IEEE/ACM International Symposium on Microarchitecture (**MICRO**), 2023.
 
@@ -50,11 +50,11 @@ International Conference on Machine Learning (**ICML**), 2023.
 
 [HammerDodger: A Lightweight Defense Framework against RowHammer Attack on Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/10247671)\
 Cheng Gongye, **<ins>Yukui Luo</ins>**, Xiaolin Xu, and Yunsi Fei\
-IEEE/ACM Design Automation Cnference (**DAC**), 2023. (Acceptance Rate: 23%)
+IEEE/ACM Design Automation Conference (**DAC**), 2023. (Acceptance Rate: 23%)
 
 [PASNet: Polynomial Architecture Search Framework for Two-party Computation-based Secure Neural Network Deployment](https://ieeexplore.ieee.org/abstract/document/10247663)\
 **<ins>Yukui Luo</ins>**, Hongwu Peng, Shanglin Zhou, Nuo Xu, Shijin Duan, Ran Ran, Jiahui Zhao, Chenghong Wang, Tong Geng, Wujie Wen, Xiaolin Xu, and Caiwen Ding\
-IEEE/ACM Design Automation Cnference (**DAC**), 2023. (Acceptance Rate: 23%)
+IEEE/ACM Design Automation Conference (**DAC**), 2023. (Acceptance Rate: 23%)
 
 
 **<span style="color:purple;">2022</span>**
@@ -87,11 +87,11 @@ IEEE Computer Society Annual Symposium on VLSI (**ISVLSI**), 2021.
 
 [DeepStrike: Remotely-Guided Fault Injection Attacks on DNN Accelerator in Cloud-FPGA](https://ieeexplore.ieee.org/abstract/document/9586262)\
 **<ins>Yukui Luo</ins>**, Cheng Gongye, Yunsi Fei, and Xiaolin Xu\
-IEEE/ACM Design Automation Cnference (**DAC**), 2021. (Acceptance Rate: 23%)
+IEEE/ACM Design Automation Conference (**DAC**), 2021. (Acceptance Rate: 23%)
 
 [SGX-FPGA: Trusted Execution Environment for CPU-FPGA Heterogeneous Architecture](https://ieeexplore.ieee.org/abstract/document/9586207)\
 Ke Xia, **<ins>Yukui Luo</ins>**, Xiaolin Xu, and Sheng Wei\
-IEEE/ACM Design Automation Cnference (**DAC**), 2021. (Acceptance Rate: 23%)
+IEEE/ACM Design Automation Conference (**DAC**), 2021. (Acceptance Rate: 23%)
 
 [FPGAPRO: A Defense Framework Against Crosstalk-Induced Secret Leakage in FPGA](https://dl.acm.org/doi/abs/10.1145/3491214)\
 **<ins>Yukui Luo</ins>**, Shijin Duan, Xiaolin Xu\
