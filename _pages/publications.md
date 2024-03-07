@@ -17,6 +17,9 @@ nav_order: 1
 <hr>
 
 **<span style="color:purple;">2024</span>**
+[TBNet: A Neural Architectural Defense Framework Facilitating DNN Model Protection in Trusted Execution Environments](#)\
+Ziyu Liu, Tong Zhou, **<ins>Yukui Luo</ins>** and Xiaolin Xu\
+IEEE/ACM Design Automation Conference (**DAC**), 2024. (Acceptance Rate: 23%)
 
 [DeepShuffle: A Lightweight Defense Framework against Adversarial Fault Injection Attacks on Deep Neural Networks in Multi-Tenant Cloud-FPGA](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a034/1RjEa9WUlPi)\
 **<ins>Yukui Luo</ins>**, Adnan Siraj Rakin, Deliang Fan, Xiaolin Xu\
@@ -28,7 +31,7 @@ IEEE Symposium on Security and Privacy (S&P) (**Oakland**), 2024.
 
 **<span style="color:purple;">2023</span>**
 
-[LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](https://browse.arxiv.org/pdf/2309.14331.pdf)\
+[LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](https://openreview.net/pdf?id=5loV5tVzsY)\
 Hongwu Peng, Ran Ran, **<ins>Yukui Luo</ins>**, Jiahui Zhao, Shaoyi Huang, Kiran Thorat, Tong Geng, Chenghong Wang, Xiaolin Xu, Wujie Wen, Caiwen Ding\
 Thirty-seventh Conference on Neural Information Processing Systems (**NeurIPS**), 2023.
 
@@ -40,11 +43,11 @@ IEEE/ACM International Symposium on Microarchitecture (**MICRO**), 2023.
 Hongwu Peng, Shaoyi Huang, Tong Zhou, **<ins>Yukui Luo</ins>**, Chenghong Wang, Zigeng Wang, Jiahui Zhao, Xi Xie, Ang Li, Tony Geng, Kaleel Mahmood, Wujie Wen, Xiaolin Xu, Caiwen Ding\
 International Conference on Computer Vision (**ICCV**), 2023.
 
-[MirrorNet: A TEE-Friendly Framework for Secure On-device DNN Inference](#)\
+[MirrorNet: A TEE-Friendly Framework for Secure On-device DNN Inference](https://ieeexplore.ieee.org/abstract/document/10323746)\
 Ziyu Liu, **<ins>Yukui Luo</ins>**, Shijin Duan, Tong Zhou and Xiaolin Xu\
 IEEE/ACM International Conference on Computer-Aided Design (**ICCAD**), 2023.
 
-[NNSplitter: An Active Defense Solution to DNN Model via Automated Weight Obfuscation](https://arxiv.org/abs/2305.00097)\
+[NNSplitter: An Active Defense Solution to DNN Model via Automated Weight Obfuscation](https://openreview.net/pdf?id=be9T7nuBNi)\
 Tong Zhou, **<ins>Yukui Luo</ins>**, Shaolei Ren, Xiaolin Xu\
 International Conference on Machine Learning (**ICML**), 2023.
 
@@ -63,7 +66,7 @@ IEEE/ACM Design Automation Conference (**DAC**), 2023. (Acceptance Rate: 23%)
 **<ins>Yukui Luo</ins>**, Yuheng Zhang, Shijin Duan, Xiaolin Xu\
 International Conference on Field Programmable Technology (**FPT**), 2022.
 
-[NNReArch: A Tensor Program Scheduling Framework Against Neural Network Architecture Reverse Engineering](https://arxiv.org/abs/2302.02292)\
+[NNReArch: A Tensor Program Scheduling Framework Against Neural Network Architecture Reverse Engineering](https://ieeexplore.ieee.org/abstract/document/9786112)\
 **<ins>Yukui Luo</ins>**, Shijin Duan, Cheng Gongye, Yunsi Fei, Xiaolin Xu\
 IEEE International Symposium on Field-Programmable Custom Computing Machines (**FCCM**), 2022. (Acceptance Rate: 20%)
 

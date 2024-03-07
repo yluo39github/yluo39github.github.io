@@ -2,8 +2,8 @@
 layout: page
 title: Research
 permalink: /projects/
-description: My research path began with hardware security primitives and progressed to the system level. FPGA Virtualization is a key aspect of many of my Ph.D. research projects. My current research direction will focus more on the contribution of hardware systems to security and privacy, and continuously explore truly valuable cloud computing systems from hardware, system, and software levels.
-nav: false
+description: My research path began with hardware security primitives and progressed to the system level. FPGA Virtualization is a key aspect of my Ph.D. research. My current research direction will focus more on the contribution of hardware systems to security and privacy. I will continue to explore truly valuable cloud computing systems from hardware, system, and software levels.
+nav: true
 nav_order: 2
 horizontal: false
 ---
@@ -12,55 +12,47 @@ horizontal: false
 2. [Hardware Security](#Hw_sec)
 3. [Trustworthy AI Acceleration and Optimization](#ai)
 
-1. [Encrypted databases](#dbms)
-2. [Private distributed ledgers/ blockchains](#blockchain)
-3. [Secure and Trustworthy AI/ML systems](#ai)
 
 ## FPGA Virtualization System: Hardware-Oriented Threats and Mitigations <a name="FPGA_Vir"></a>
-Technologies for cloud virtualization are extensively utilized in public cloud services, with a significant focus in both industry and academic research currently on virtualization technologies involving FPGA-based cloud instances.
+Technologies for cloud virtualization are extensively utilized in public cloud services. Currently, there is significant focus in both industry and academic research on virtualization technologies involving FPGA-based cloud instances.
 
-Our vision is to develop a commercial prototype of a Virtualized FPGA, further enhancing hardware acceleration support for internet applications. Considering the distinct system architecture of cloud FPGA instances, as opposed to traditional CPU/GPU-based cloud instances, and the hardware programmability of FPGAs, our focus begins with the security challenges of multi-tenant FPGAs. We explore potential attack models and specific, commonly used attack methods, such as those in AI inference applications, to generate ideas for the design of Cloud FPGA hypervisors.
-
-
-
-
-A persistent issue in today's society is that organizations handling private or sensitive data, i.e. health records, banking transactions, defense industry and military data etc, strive to engage in collaborative data analysis, but they are restricted from sharing it. 
-
-Our aspiration is to architect pragmatic data systems to facilitate the practice of collaborative analytics over confidential data. To accomplish this aim, we delve into the synergistic relationship among **differential privacy**, **cryptography**, and **trusted hardwares** by establishing innovative algorithms and system designs that articulate the interconnection between these spheres, taking into account both theoretical perspectives and pragmatic approaches to systems building.
+Our vision is to develop a commercial prototype of a Virtualized FPGA, further enhancing hardware acceleration support for internet applications. Considering the distinct system architecture of cloud FPGA instances, as opposed to traditional CPU/GPU-based cloud instances, and the hardware programmability of FPGAs, our focus begins with addressing the security challenges of multi-tenant FPGAs. We explore potential attack models and specific, commonly used attack methods, such as those in AI inference applications, to generate ideas for the design of Cloud FPGA hypervisors.
 
 ##### **Featured publications**
-###### Two-party computing (2PC) system 
+- Identified potential attacks within FPGA virtualization systems that exploit hardware programming, including but not limited to, attacks like stealing sensitive information through long-wire methods, fault injection via power distribution networks (PDN), side-channel analysis, and the denial-of-service attack.
+  - [FPGAPRO: A Defense Framework Against Crosstalk-Induced Secret Leakage in FPGA](https://dl.acm.org/doi/abs/10.1145/3491214) (**TODAES**)
+  - [Deep-Dup: An Adversarial Weight Duplication Attack Framework to Crush Deep Neural Network in Multi-Tenant FPGA](https://www.usenix.org/system/files/sec21-rakin.pdf) (**USENIX Security**)
 
-- [AQ2PNN: Enabling Two-party Privacy-Preserving Deep Neural Network Inference with Adaptive Quantization](https://microarch.org/micro56/program/index.php) (**MICRO**), 2023
+- Engineered protective measures to counter the above attacks and incorporate these defenses into the hypervisor of FPGA virtualization systems.
+  - [A Cautionary Note on Building Multi-tenant Cloud-FPGA as a Secure Infrastructure](https://ieeexplore.ieee.org/document/9974230?denied=) (**FPT**)
+  - [A Quantitative Defense Framework against Power Attacks on Multi-tenant FPGA](https://ieeexplore.ieee.org/abstract/document/9256466) (**ICCAD**)
 
-
-- [IncShrink: Architecting Efficient Outsourced Databases using Incremental MPC and Differential Privacy](https://arxiv.org/abs/2203.05084)  (**SIGMOD**), 2022
-- [DP-Sync: Hiding Update Patterns in Secure Outsourced Databases with Differential Privacy](https://arxiv.org/abs/2103.15942) (**SIGMOD**), 2021
-- [Crypt$\epsilon$:Crypto-Assisted Differential Privacy on Untrusted Servers](https://dl.acm.org/doi/10.1145/3318464.3380596) (**SIGMOD**), 2020
+- Developed specific defensive strategies for applications, such as protecting deep neural network (DNN) inference processes from the above attacks.
+  - [DeepShuffle: A Lightweight Defense Framework against Adversarial Fault Injection Attacks on Deep Neural Networks in Multi-Tenant Cloud-FPGA](https://www.computer.org/csdl/proceedings-article/sp/2024/313000a034/1RjEa9WUlPi) (**S&P**)
 
 <br>
 
 
-## Secure and Trustworthy AI/ML systems <a name="ai"></a>
-
-My current research focuses on novel algorithms and hardware co-design for accelerating privacy-preserving machine learning, aiming to facilitate the practical deployment of PPML across various industries that interact with sensitive data, such as healthcare, biomedicine, banking, finance, etc.
+## Hardware Security <a name="Hw_sec"></a>
+My main contributions in the field of hardware security are focused on the development of hardware security primitives.
 
 ##### **Featured publications**
-- [LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](#) (**NeurIPS**), 2023
-- [AQ2PNN: Enabling Two-party Privacy-Preserving Deep Neural Network Inference with Adaptive Quantization](#)(**MICRO**), 2023
-- [AutoReP: Automatic ReLU Replacement for Fast Private Network Inference](#) (**ICCV**), 2023
+- Designed a True Random Number Generator (TRNG) hardware circuit based on Chaotic Cellular Automata Topology.
+  - [A High-Performance and Secure TRNG Based on Chaotic Cellular Automata Topology](https://ieeexplore.ieee.org/abstract/document/9185072) (**TCAS-I**)
+
+- Utilized Physical Unclonable Function to design FPGA-based Trust Enclave.
+  - [SGX-FPGA: Trusted Execution Environment for CPU-FPGA Heterogeneous Architecture](https://ieeexplore.ieee.org/abstract/document/9586207) (**DAC**)
+
+- Developed a defense method for DNN inference against RowHammer attacks. 
+  - [HammerDodger: A Lightweight Defense Framework against RowHammer Attack on Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/10247671) (**DAC**)
 
 <br>
 
-## Private distributed ledgers/ blockchains <a name="blockchain"></a>
-
-The *permissionless* nature is widely recognized as a key innovation in modern blockchain technologies. However, this inherently open arrangement inevitably raises numerous privacy issues, for instance, everyone can observe each other's transactions. To mitigate these issues, **private blockchains** like Zcash have been proposed. These blockchains conceal transaction details using **cryptographic primitives** and employ **zero-knowledge proofs** to validate transactions, thereby preserving blockchain functionality.
-
-My interests in this area primarily include: (i)Fundamentally understand the privacy implications of existing private blockchains; (ii) Explore principled techniques for designing efficient and robust private blockchains.
+## Trustworthy AI Acceleration and Optimization <a name="ai"></a>
+The enactment of stricter privacy laws and the awakening of public awareness towards privacy protection demand higher levels of privacy and security for cloud services, urgently requiring the development of a reliable, secure computing accelerator. This research field aims to apply methods such as **Multipart Computing (MPC)**, **Fully Homomorphic Encryption (FHE)**, and **Hardware Enclave** technologies to enable a trustworthy AI accelerator in the cloud, addressing critical privacy and security concerns.
 
 ##### **Featured publications**
-- [Private Proof-of-Stake Blockchains using Differentially-Private Stake Distortion](https://eprint.iacr.org/2023/787) (**Security**), 2023
-
-**Check out our latest posts on Decentralized Thoughts, [part1](https://decentralizedthoughts.github.io/2023-07-21-ppos1/), [part2](https://decentralizedthoughts.github.io/2023-07-21-ppos2/), and our talks on [Zcon4](https://www.youtube.com/live/DMiw7m2Ku78?feature=share&t=9316) and [CESC23](https://www.youtube.com/watch?t=6635&v=q9-xxy43BnM&feature=youtu.be)**
+- [AQ2PNN: Enabling Two-party Privacy-Preserving Deep Neural Network Inference with Adaptive Quantization](https://dl.acm.org/doi/10.1145/3613424.3614297) (**MICRO**)
+  [LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](https://openreview.net/pdf?id=5loV5tVzsY) (**NeurIPS**)
 
 <br>

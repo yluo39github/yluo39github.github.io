@@ -7,6 +7,7 @@ nav: true
 nav_order: 3
 ---
 ### University of Massachusetts Dartmouth
+* Spring 2024 - **CIS 280**: Software Spec & Design (Instructor)
 * Fall 2023 - **CIS 552**: Database Design (Instructor)
 
 ### Northeastern University
