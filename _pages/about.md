@@ -29,7 +29,7 @@ social: true  # includes social icons at the bottom of the page # <h1 style="col
 
 I am an assistant professor in the Department of Computer & Information Science at the University of Massachusetts Dartmouth. I received my Ph.D. degree in Computer Engineering from Northeastern University under the supervision of [Xiaolin Xu](https://www.xiaolinxu.com/).
 
-**<span style="color:purple;">I'm looking for self-motivated students starting in Fall 2023</span>**, with strong research interests in one or more concentrations in security (including both hardware-oriented security and cybersecurity), machine learning, database management system design, operating systems, computer architecture, or field-programmable gate arrays (FPGAs).
+**<span style="color:purple;">I'm looking for self-motivated students starting in Fall 2025</span>**, with strong research interests in one or more concentrations in security (including both hardware-oriented security and cybersecurity), machine learning, database management system design, operating systems, computer architecture, or field-programmable gate arrays (FPGAs).
 
 If you are interested, please read this [instruction](./recruiting_ads) first.
 
