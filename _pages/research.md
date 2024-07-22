@@ -61,4 +61,12 @@ The enactment of stricter privacy laws and the awakening of public awareness tow
 - A DNN architecture and training method specifically designed for TEE.
   - [TBNet: A Neural Architectural Defense Framework Facilitating DNN Model Protection in Trusted Execution Environments](https://arxiv.org/pdf/2405.03974) (**DAC**)
   - [MirrorNet: A TEE-Friendly Framework for Secure On-device DNN Inference](https://ieeexplore.ieee.org/abstract/document/10323746) (**ICCAD**)
+
+
+
+
+
+
+
+
 <br>
