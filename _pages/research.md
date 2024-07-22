@@ -45,17 +45,20 @@ My main contributions in the field of hardware security are focused on the devel
     {% include game-of-life.html %}
 - Utilized Physical Unclonable Function to design FPGA-based Trust Enclave.
   - [SGX-FPGA: Trusted Execution Environment for CPU-FPGA Heterogeneous Architecture](https://ieeexplore.ieee.org/abstract/document/9586207) (**DAC**)
-
 - Developed a defense method for DNN inference against RowHammer attacks. 
   - [HammerDodger: A Lightweight Defense Framework against RowHammer Attack on Deep Neural Networks](https://ieeexplore.ieee.org/abstract/document/10247671) (**DAC**)
 
 <br>
 
 ## Trustworthy AI Acceleration and Optimization <a name="ai"></a>
-The enactment of stricter privacy laws and the awakening of public awareness towards privacy protection demand higher levels of privacy and security for cloud services, urgently requiring the development of a reliable, secure computing accelerator. This research field aims to apply methods such as **Multipart Computing (MPC)**, **Fully Homomorphic Encryption (FHE)**, and **Hardware Enclave** technologies to enable a trustworthy AI accelerator in the cloud, addressing critical privacy and security concerns.
+The enactment of stricter privacy laws and the awakening of public awareness towards privacy protection demand higher levels of privacy and security for cloud services, urgently requiring the development of a reliable, secure computing accelerator. This research field aims to apply methods such as **Multipart Computing (MPC)**, **Fully Homomorphic Encryption (FHE)**, and **Trusted Execution Environment (TEE)** (e.g., Intel SGX, ARM TrustZone, AMD SEV) technologies to enable a trustworthy AI accelerator in the cloud, addressing critical privacy and security concerns.
 
 ##### **Featured publications**
-- [AQ2PNN: Enabling Two-party Privacy-Preserving Deep Neural Network Inference with Adaptive Quantization](https://dl.acm.org/doi/10.1145/3613424.3614297) (**MICRO**)
-  [LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](https://openreview.net/pdf?id=5loV5tVzsY) (**NeurIPS**)
-
+- The research is about using quantization methods in 2-party computing-based DNN models.
+  - [AQ2PNN: Enabling Two-party Privacy-Preserving Deep Neural Network Inference with Adaptive Quantization](https://dl.acm.org/doi/10.1145/3613424.3614297) (**MICRO**)
+- Reduce multiplication depth and optimize the performance of HE-based GCN inference.
+  - [LinGCN: Structural Linearized Graph Convolutional Network for Homomorphically Encrypted Inference](https://openreview.net/pdf?id=5loV5tVzsY) (**NeurIPS**)
+- A DNN architecture and training method specifically designed for TEE.
+  - [TBNet: A Neural Architectural Defense Framework Facilitating DNN Model Protection in Trusted Execution Environments](https://arxiv.org/pdf/2405.03974) (**DAC**)
+  - [MirrorNet: A TEE-Friendly Framework for Secure On-device DNN Inference](https://ieeexplore.ieee.org/abstract/document/10323746) (**ICCAD**)
 <br>

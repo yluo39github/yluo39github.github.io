@@ -18,7 +18,7 @@ nav_order: 1
 
 **<span style="color:purple;">2024</span>**
 
-[TBNet: A Neural Architectural Defense Framework Facilitating DNN Model Protection in Trusted Execution Environments](#)\
+[TBNet: A Neural Architectural Defense Framework Facilitating DNN Model Protection in Trusted Execution Environments](https://arxiv.org/pdf/2405.03974)\
 Ziyu Liu, Tong Zhou, **<ins>Yukui Luo</ins>** and Xiaolin Xu\
 IEEE/ACM Design Automation Conference (**DAC**), 2024. (Acceptance Rate: 23%)
 
