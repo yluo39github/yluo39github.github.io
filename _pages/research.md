@@ -7,6 +7,8 @@ nav: true
 nav_order: 2
 horizontal: false
 ---
+<!-- {% include game-of-life.html %} -->
+<hr>
 
 1. [FPGA Virtualization System](#FPGA_Vir)
 2. [Hardware Security](#Hw_sec)
@@ -39,7 +41,8 @@ My main contributions in the field of hardware security are focused on the devel
 ##### **Featured publications**
 - Designed a True Random Number Generator (TRNG) hardware circuit based on Chaotic Cellular Automata Topology.
   - [A High-Performance and Secure TRNG Based on Chaotic Cellular Automata Topology](https://ieeexplore.ieee.org/abstract/document/9185072) (**TCAS-I**)
-
+  - The Game of Life in the grids below is a concrete example based on Cellular Automata (CA), starting with a random initial configuration and a series of evolution rules. Please click anywhere in the grids below to begin the evolution and observe the results.
+    {% include game-of-life.html %}
 - Utilized Physical Unclonable Function to design FPGA-based Trust Enclave.
   - [SGX-FPGA: Trusted Execution Environment for CPU-FPGA Heterogeneous Architecture](https://ieeexplore.ieee.org/abstract/document/9586207) (**DAC**)
 
