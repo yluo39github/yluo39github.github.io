@@ -6,6 +6,9 @@ description:
 nav: true
 nav_order: 3
 ---
+### Binghamton University
+* Fall 2024 - **EECE 451**: Digital Systems Design II (Instructor)
+
 ### University of Massachusetts Dartmouth
 * Spring 2024 - **CIS 280**: Software Spec & Design (Instructor)
 * Fall 2023 - **CIS 552**: Database Design (Instructor)
