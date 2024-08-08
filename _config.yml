@@ -6,7 +6,7 @@ title: Yukui Luo # the website title (if blank, full name will be used instead)
 first_name: Yukui
 middle_name: 
 last_name: Luo
-email: yluo2@umassd.edu
+email: yluo11-AT-Binghamton-.-EDU
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -16,7 +16,7 @@ footer_text: >
 keywords: jekyll, jekyll-theme, academic-website, portfolio-website  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
-icon: umassd-logo.png  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
+icon: B-symbol-2c.jpg  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://yluo39github.github.io # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
@@ -92,7 +92,7 @@ osf_id: # your OSF ID
 research_gate_profile: # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
-work_url: https://www.umassd.edu/directory/yluo2/ # work page URL
+work_url: https://www.binghamton.edu/electrical-computer-engineering/people/profile.html?id=yluo11/ # work page URL
 keybase_username: # your keybase user name
 wikidata_id: # your wikidata id
 wikipedia_id: # your wikipedia id (Case sensitive)

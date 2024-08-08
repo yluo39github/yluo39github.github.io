@@ -9,9 +9,8 @@ profile:
   image: YK.jpg
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Dion 302C</p>
-    <p>285 Old Westport Rd.</p>
-    <p>North Dartmouth, MA 02747</p>
+    <p>Engineering and Science Building (ES) 2329</p>
+    <p>Vestal, NY 13850</p>
 
 news: true  # includes a list of news items https://www.umassd.edu/directory/yluo2/ 
 latest_posts: true  # includes a list of the newest posts
@@ -19,15 +18,15 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page # <h1 style="color:blue;">*Assistant Professor*</h1> \
 ---
 *Assistant Professor*\
-[Department of Computer & Information Science](https://www.umassd.edu/engineering/cis/)\
-[University of Massachusetts Dartmouth](https://www.umassd.edu/)\
-**Email**: yluo2@umassd.edu
+[Department of Electrical and Computer Engineering](https://www.binghamton.edu/electrical-computer-engineering/)\
+[Binghamton University, STATE UNIVERSITY OF NEW YORK (SUNY)](https://www.binghamton.edu/)\
+**Email**: yluo11-AT-Binghamton-.-EDU
 
 <div class="contact-icons">
 {% include social.html %}
 </div>
 
-I am an assistant professor in the Department of Computer & Information Science at the University of Massachusetts Dartmouth. I received my Ph.D. degree in Computer Engineering from Northeastern University under the supervision of [Xiaolin Xu](https://www.xiaolinxu.com/).
+I am an assistant professor in the Department of Electrical and Computer Engineering at Binghamton University, SUNY. I received my Ph.D. degree in Computer Engineering from Northeastern University under the supervision of [Xiaolin Xu](https://www.xiaolinxu.com/).
 
 **<span style="color:#005A43;">I'm looking for self-motivated students starting in Spring 2025</span>**, with strong research interests in one or more concentrations in security (including both hardware-oriented security and cybersecurity), machine learning, database management system design, operating systems, computer architecture, or field-programmable gate arrays (FPGAs).
 
