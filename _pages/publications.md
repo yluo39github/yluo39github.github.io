@@ -17,6 +17,9 @@ nav_order: 1
 <hr>
 
 **<span style="color:purple;">2024</span>**
+[AdaPI: Facilitating DNN Model Adaptivity for Efficient Private Inference in Edge Computing](https://arxiv.org/pdf/2407.05633v1)\
+Tong Zhou, Jiahui Zhao, **<ins>Yukui Luo</ins>**, Xi Xie, Wujie Wen, Caiwen Ding and Xiaolin Xu\
+IEEE/ACM International Conference on Computer-Aided Design (**ICCAD**), 2024.
 
 [TBNet: A Neural Architectural Defense Framework Facilitating DNN Model Protection in Trusted Execution Environments](https://arxiv.org/pdf/2405.03974)\
 Ziyu Liu, Tong Zhou, **<ins>Yukui Luo</ins>** and Xiaolin Xu\
