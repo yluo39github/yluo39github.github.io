@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: Our paper (with Z. Liu et. al.) [TBNet: A Neural Architectural Defense Framework Facilitating DNN Model Protection in Trusted Execution Environments](#) has been accepted by [**DAC 2024**](https://arxiv.org/abs/2405.03974).
+:tada: Our paper (with Z. Liu et. al.) [TBNet: A Neural Architectural Defense Framework Facilitating DNN Model Protection in Trusted Execution Environments](https://arxiv.org/abs/2405.03974) has been accepted by [**DAC 2024**](https://www.dac.com/).
