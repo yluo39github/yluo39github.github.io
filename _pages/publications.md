@@ -17,6 +17,7 @@ nav_order: 1
 <hr>
 
 **<span style="color:purple;">2024</span>**
+
 [AdaPI: Facilitating DNN Model Adaptivity for Efficient Private Inference in Edge Computing](https://arxiv.org/pdf/2407.05633v1)\
 Tong Zhou, Jiahui Zhao, **<ins>Yukui Luo</ins>**, Xi Xie, Wujie Wen, Caiwen Ding and Xiaolin Xu\
 IEEE/ACM International Conference on Computer-Aided Design (**ICCAD**), 2024.
