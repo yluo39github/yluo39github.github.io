@@ -28,9 +28,7 @@ social: true  # includes social icons at the bottom of the page # <h1 style="col
 
 I am an assistant professor in the Department of Electrical and Computer Engineering at Binghamton University, SUNY. I received my Ph.D. degree in Computer Engineering from Northeastern University under the supervision of [Xiaolin Xu](https://www.xiaolinxu.com/).
 
-**<span style="color:#005A43;">I'm looking for self-motivated students starting in Fall 2025 and Spring 2026</span>**, with strong research interests in one or more concentrations in security (including both hardware-oriented security and cybersecurity), machine learning, database management system design, operating systems, computer architecture, or field-programmable gate arrays (FPGAs).
-
-If you are interested, please read this [**<span style="color:#005A43;">instruction</span>**](./recruiting_ads) first.
+**<span style="color:#005A43;">I'm looking for self-motivated students starting in Fall 2026 </span>**, with strong research interests in one or more concentrations in security (including both hardware-oriented security and cybersecurity), machine learning, database management system design, operating systems, computer architecture, or field-programmable gate arrays (FPGAs). If you are interested, please read this [**<span style="color:#005A43;">instruction</span>**](./recruiting_ads) first.
 
 <!-- This is regular text and <span style="color:green;">this is green text</span>.
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.

@@ -17,6 +17,10 @@ nav_order: 2
 <hr>
 **<span style="color:purple;">2025</span>**
 
+[Holistic Design towards Resource-Stringent Binary Vector Symbolic Architecture](#)\
+Shijin Duan, Nuntipat Narkthong, **<ins>Yukui Luo</ins>**, Shaolei Ren and Xiaolin Xu\
+IEEE/ACM Design Automation Conference (**DAC**), 2025.
+
 [SPECIAL: Synopsis Assisted Secure Collaborative Analytics](https://arxiv.org/pdf/2404.18388)\
 Chenghong Wang, Lina Qiu, Johes Bater, **<ins>Yukui Luo</ins>**\
 Very Large Data Bases Conference (**VLDB**), 2025
