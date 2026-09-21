@@ -61,7 +61,8 @@ layout: default
       }
     </style>
     <div class="globe-container">
-      <script type='text/javascript' id='clustrmaps' src='//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=300&t=n&d=Ok-9gC_2JacHdCCn2MhY3QA1tDXSjpQYrtd5e5ARJ00&co=005a43&cmn=cedc00&cmo=6cc24a'></script>
+      <!-- ClustrMaps shut down its CDN (cdn.clustrmaps.com is NXDOMAIN); MapMyVisitors is the successor and honours the same token. Colour params (co/cmn/cmo) are no longer read from the URL - set them in the MapMyVisitors dashboard. -->
+      <script type='text/javascript' id='mmvst_globe' src='//mapmyvisitors.com/globe.js?d=Ok-9gC_2JacHdCCn2MhY3QA1tDXSjpQYrtd5e5ARJ00&x=y'></script>
     </div>  
     <!-- Latest posts -->
     <!-- {% if page.latest_posts -%}
