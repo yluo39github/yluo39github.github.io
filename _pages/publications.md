@@ -15,7 +15,17 @@ nav_order: 2
 <!-- </div> -->
 
 <hr>
+**<span style="color:purple;">2026</span>**
+
+[Hoss: Fast Oblivious Semantic Search with Heterogeneous GPU-CPU-TEE Architecture](#)\
+Jianzhang Du, Weijie Huang, Chenghong Wang, **<ins>Nicolas Tsagareli</ins>**, **<ins>Yukui Luo</ins>**, XiaoFeng Wang & Zhongshu Gu\
+ACM SIGSAC Conference on Computer and Communications Security (**CCS**), 2026.
+
 **<span style="color:purple;">2025</span>**
+
+[BOLT: Bandwidth-Optimized Lightning-Fast Oblivious Map powered by Secure HBM Accelerators](#)\
+Yitong Guo, Hongbo Chen, Haobin Chen, **<ins>Yukui Luo</ins>**, XiaoFeng Wang and Chenghong Wang\
+ACM SIGSAC Conference on Computer and Communications Security (**CCS**), 2025.
 
 [Holistic Design towards Resource-Stringent Binary Vector Symbolic Architecture](#)\
 Shijin Duan, Nuntipat Narkthong, **<ins>Yukui Luo</ins>**, Shaolei Ren and Xiaolin Xu\

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-:tada: Ziyu Liu joined our group as a Ph.D., welcome!
+:tada: Ziyu Liu joined our group as a Ph.D., Welcome!

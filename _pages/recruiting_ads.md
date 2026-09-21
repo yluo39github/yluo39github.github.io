@@ -8,15 +8,15 @@ nav: false
 
 ### 📬 Contact Note
 
-**Note:** I kindly ask that you use an **.edu** email address when reaching out. Emails that do not follow this guideline may not receive a response. Please also note that **mass-distributed or templated inquiry emails will not be answered**.
+**Note:** I kindly ask that you use an **.edu** email address when reaching out. **Emails that do not follow this guideline may not receive a response.** Please also note that **mass-distributed or templated inquiry emails will not be answered**.
 
 ---
 
 ### Ph.D. Students
 
-**There are Ph.D. positions available for the Fall 2026 semester.**
+**There are currently NO fully funded Ph.D. openings in our group.**
 
-I am always looking for driven students who have a keen research passion in areas like computer architecture, FPGA acceleration, hardware/cyber security, machine learning and the Internet of Things (IoT). If you're excited about advancing any of these subjects alongside me, please:
+I am always looking for driven students who have a genuine passion for research in areas such as computer architecture, FPGA acceleration, hardware/cyber security, machine learning, and the Internet of Things (IoT). **Please note that I currently have no fully funded Ph.D. positions available, so I am especially interested in students who are able to support their own studies.** I also value students who bring original questions, independent judgment, and creativity that go beyond what today's AI tools can already do, since that is where a Ph.D. adds the most value. If you're excited about advancing any of these subjects alongside me, please:
 
 1. Please apply for Binghamton University’s Electrical and Computer Engineering ([ECE](https://www.binghamton.edu/electrical-computer-engineering/graduate/index.html)) PhD program.
 
@@ -28,10 +28,12 @@ I am always looking for driven students who have a keen research passion in area
 
     - Use ''Apply-PhD-YourName-Semester-Year'' as your email subject.
     - Please attach your CV, all transcripts, GRE score (Quantitative > 165) and IELTS or TOEFL score. 
-    - Please share your thoughts after reading **at least one** of my recent paper(s). I'm keen to know if any particularly interest you and why. 
-    - Please tell me about your previous work and whether it is related to any of my recent paper(s).
+    - Please share your thoughts after reading **at least one** of my recent paper(s). I'm keen to know if any particularly interest you and why. I would like to hear your own perspective.
+    - Please tell me about your previous work and whether it is related to any of my recent paper(s). Again, your own words are what matter most.
 
-**Prefer students already familiar with FPGA, Verilog, VHDL, and HLS.**
+**Prefer students already familiar with GPU，FPGA, SmartNIC，CUDA, Verilog, VHDL, and HLS.**
+
+**Note:** Please feel free to use AI tools to help you, but the ideas should be your own. I read every application myself, and I will reply to those that show genuine, thoughtful engagement with my work. Applications that rely solely on AI, unfortunately, will not receive a reply.
 
 ---
 
@@ -41,11 +43,11 @@ If you are a master's student at Binghamton University and interested in working
 
 1. Your transcript or a list of your grades in **Computer Architecture** or **Security-related** courses.
 
-2. Choose **one paper** published between **2023 and 2025** in one of the four major security conferences (**USENIX Security**, **NDSS**, **CCS**, or **IEEE S&P**) that interests you.
+2. Choose **one paper** published between **2023 and 2026** in one of the four major security conferences (**USENIX Security**, **NDSS**, **CCS**, or **IEEE S&P**) that interests you.
 
 3. Carefully read the paper and identify **at least five technical or experimental limitations** in the work. These could relate to the methodology, assumptions, scalability, practicality, etc.
 
-4. Summarize your thoughts and critique in a **one-page report** (no formatting requirement).
+4. Summarize your thoughts and critique in a **one-page report** (no formatting requirement). Using AI tools to assist you is fine, but I am looking for your own thinking. If a submission is purely AI-generated, I am afraid I will not be able to reply.
 
 5. Send the report **along with your research interests** in the email.
 

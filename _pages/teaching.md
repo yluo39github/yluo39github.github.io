@@ -7,8 +7,8 @@ nav: true
 nav_order: 4
 ---
 ### Binghamton University
-* Fall 2025 - **EECE 451/573**: Digital Systems Design II (Instructor)
-* Spring 2025 - **EECE 580F/658**: Hardware-Based Security (Instructor)
+* Fall 2025, 2026 - **EECE 451/573**: Digital Systems Design II (Instructor)
+* Spring 2025, 2026 - **EECE 580F/658**: Hardware-Based Security (Instructor)
 * Fall 2024 - **EECE 451/573**: Digital Systems Design II (Instructor)
 
 ### University of Massachusetts Dartmouth

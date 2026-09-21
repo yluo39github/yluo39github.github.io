@@ -17,13 +17,35 @@ BS @ Penn State -->
 <div style="display: flex; align-items: flex-start;">
   <div style="position: relative; width: 200px;">
     <img src="/assets/img/Ziyu-2.jpg" alt="Ziyu Liu" style="width: 100%; border: 1px solid #ccc;">
-    <div style="position: absolute; top: 1px; right: 1px; background-color: rgba(255, 255, 255, 0.8); padding: 5px; border-radius: 5px; font-size: 14px;">
+    <!-- <div style="position: absolute; top: 1px; right: 1px; background-color: rgba(255, 255, 255, 0.8); padding: 5px; border-radius: 5px; font-size: 14px;">
       MS @ NEU
     </div>
     <div style="position: absolute; top: 1px; left: 1px; background-color: rgba(255, 255, 255, 0.8); padding: 5px; border-radius: 5px; font-size: 14px;">
       BS @ Penn State
-    </div>
+    </div> -->
   </div>
+</div>
+
+##### Yifeng Lu (Ph.D. Student Fall 2025 -)
+
+##### Nicolas Tsagareli (Ph.D. Student Fall 2025 -)
+
+<div style="display: flex; align-items: flex-start;">
+  <div style="position: relative; width: 400px;">
+    <img src="/assets/img/Nico-1.jpg" alt="Nicolas Tsagareli" style="width: 100%; border: 1px solid #ccc;">
+    <!-- <div style="position: absolute; top: 1px; right: 1px; background-color: rgba(255, 255, 255, 0.8); padding: 5px; border-radius: 5px; font-size: 14px;">
+      MS @ SUNY-BU
+    </div>
+    <div style="position: absolute; top: 1px; left: 1px; background-color: rgba(255, 255, 255, 0.8); padding: 5px; border-radius: 5px; font-size: 14px;">
+      BS @ Penn State
+    </div> -->
+  </div>
+</div>
+
+
+
+
+
 
 
 <!-- <div style="text-align: left; position: relative; width: 200px; margin: auto;">
