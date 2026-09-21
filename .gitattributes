@@ -1,0 +1,7 @@
+# The repo is edited on Windows (core.autocrlf=true) but built on Linux CI and
+# in Docker. These files break outright if they arrive with CRLF, so pin them
+# to LF regardless of local settings.
+*.sh        text eol=lf
+bin/cibuild text eol=lf
+bin/deploy  text eol=lf
+CNAME       text eol=lf
