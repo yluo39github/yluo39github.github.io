@@ -46,24 +46,25 @@ layout: default
       <h2><a href="{{ '/news/' | relative_url }}" style="color: inherit;">news</a></h2>
       {%- include news.html limit=true %}
     {%- endif %}
-    <!-- Gloabl -->
+    <!-- Visitor map -->
     <style>
-      .globe-container {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        max-width: 200px; /* 设定最大宽度 */
+      .visitor-map-container {
+        max-width: 300px; /* 设定最大宽度 */
         margin: 0 auto; /* 居中对齐 */
       }
-      .globe-container canvas {
-        width: 100% !important; /* 使其适应容器 */
-        height: auto !important; /* 使其保持比例 */
+      .visitor-map-container #mapmyvisitors-widget {
+        max-width: 100%; /* 使其适应容器 */
       }
     </style>
-    <div class="globe-container">
-      <!-- ClustrMaps shut down its CDN (cdn.clustrmaps.com is NXDOMAIN); MapMyVisitors is the successor and honours the same token. Colour params (co/cmn/cmo) are no longer read from the URL - set them in the MapMyVisitors dashboard. -->
-      <script type='text/javascript' id='mmvst_globe' src='//mapmyvisitors.com/globe.js?d=Ok-9gC_2JacHdCCn2MhY3QA1tDXSjpQYrtd5e5ARJ00&x=y'></script>
-    </div>  
+    <div class="visitor-map-container">
+      <!-- ClustrMaps retired cdn.clustrmaps.com (it is now NXDOMAIN), which is why the old
+           widget stopped rendering. MapMyVisitors is the successor and accepts the same token.
+           The id must stay 'mapmyvisitors': map.js anchors itself via $('#mapmyvisitors') and
+           inserts the map after that element, so renaming it leaves nothing to attach to.
+           cmn/cmo set the recent/older visitor dot colours. The land fill is fixed at #CCE190
+           and cannot be overridden from the URL. w=a makes the map fill this container. -->
+      <script type='text/javascript' id='mapmyvisitors' src='//mapmyvisitors.com/map.js?d=Ok-9gC_2JacHdCCn2MhY3QA1tDXSjpQYrtd5e5ARJ00&cl=ffffff&w=a&t=n&cmn=cedc00&cmo=6cc24a&x=y'></script>
+    </div>
     <!-- Latest posts -->
     <!-- {% if page.latest_posts -%}
       <h2><a href="{{ '/blog/' | relative_url }}" style="color: inherit;">latest posts</a></h2>
