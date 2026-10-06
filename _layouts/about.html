@@ -57,13 +57,12 @@ layout: default
       }
     </style>
     <div class="visitor-map-container">
-      <!-- ClustrMaps retired cdn.clustrmaps.com (it is now NXDOMAIN), which is why the old
-           widget stopped rendering. MapMyVisitors is the successor and accepts the same token.
-           The id must stay 'mapmyvisitors': map.js anchors itself via $('#mapmyvisitors') and
-           inserts the map after that element, so renaming it leaves nothing to attach to.
-           cmn/cmo set the recent/older visitor dot colours. The land fill is fixed at #CCE190
-           and cannot be overridden from the URL. w=a makes the map fill this container. -->
-      <script type='text/javascript' id='mapmyvisitors' src='//mapmyvisitors.com/map.js?d=Ok-9gC_2JacHdCCn2MhY3QA1tDXSjpQYrtd5e5ARJ00&cl=ffffff&w=a&t=n&cmn=cedc00&cmo=6cc24a&x=y'></script>
+      <!-- Widget tag generated from the MapMyVisitors dashboard. The id must stay
+           'mapmyvisitors': the script anchors itself via $('#mapmyvisitors') and inserts the
+           map after that element, so renaming it leaves nothing to attach to. cmo/cmn are the
+           older/recent visitor dot colours. co is carried over by the dashboard but has no
+           effect - the land fill stays #CCE190 and no URL parameter overrides it. -->
+      <script type='text/javascript' id='mapmyvisitors' src='https://mapmyvisitors.com/map.js?cl=ffffff&w=300&t=m&d=VWjNV2Q8odygfDxQGgL4VOcy_XwIruJZh5AKmktrQvE&co=005a43&cmo=cedc00&cmn=6cc24a'></script>
     </div>
     <!-- Latest posts -->
     <!-- {% if page.latest_posts -%}
